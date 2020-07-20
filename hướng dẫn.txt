@@ -1,0 +1,7 @@
+b1: tải phiên bản chromedriver phù hợp với phiên bản chorme đang dùng
+b2: chạy file addfb 
+b3: đăng nhập đúng thông tin :v không thì sai tắt hết chạy lại :v bấm add 
+b4: làm gì có bước 4 :)
+Lúc chạy chờ màn hình hiện 1 thông báo từ chrome -> bấm gì cũng đc -.- cho hắn qua cái đó là đc
+chạy xong bấm add để chạy tiếp :v nên là vậy không lại add bạn bè đang chạy phải bấm close bằng tay :v k thích code đoạn
+này auto.... :v
